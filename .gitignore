@@ -102,3 +102,23 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OS X
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+._*
+
+# Strapi
+
+.env
+license.txt
+exports
+*.cache
+build
+.strapi-updater.json
+>>>>>>> initial commit
